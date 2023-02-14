@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e {a..o}{a..n} {p..z}{o..z}
+echo -e {a..z}{a..z}
