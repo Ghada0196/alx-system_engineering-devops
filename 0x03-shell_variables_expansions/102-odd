@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -lne '$.%2 or print;'
+sed -n 1~2p
